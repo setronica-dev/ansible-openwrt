@@ -37,6 +37,9 @@ This role was tested successfully with:
  * OpenWRT 19.07
  * OpenWRT 21.02
  * OpenWRT 22.03
+ * OpenWRT 23.05
+ * OpenWRT 24.10
+ * OpenWRT 25.01
 
 Requirements
 ------------
